@@ -1,0 +1,3 @@
+[submodule "vendor/GUEngine"]
+	path = vendor/GUEngine
+	url = https://gitee.com/ImGili/GUEngine.git
